@@ -56,3 +56,8 @@ no
  ***   List any other comments here.                                        ***
  ******************************************************************************/
 http://qipeace.com/images/CirclesFractalGravity.png
+
+
+
+
+![Art, n = 3](https://github.com/yerass11/31github/blob/main/RecursiveGraphics/Art_nEquals_3.png)
