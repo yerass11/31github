@@ -16,13 +16,12 @@ Confidence level (0 = very afraid, 5 = very confident) 0/1/2/3/4/5
 5
 
 
-
 /**********************************************************************
  * Approximate number of hours to complete this assignment            *
  **********************************************************************/
 
 
-Number of hours: 3(spent 1 hour to find art)
+Number of hours: 3(spent 1 hour to find art idea)
 
 
 
