@@ -1,0 +1,25 @@
+package Task3;
+
+public class Rock extends Piece{
+    private Position pos;
+    private Color Side;
+
+
+
+    public Rock() {
+    }
+
+    public Rock(Position pos, Color side) {
+        this.pos = pos;
+        Side = side;
+    }
+
+    @Override
+    boolean isLegalMove(Position newPos) {
+        if(pos == newPos) return false;
+        int xDiff = pos.getXDiff(newPos);
+        int yDiff = pos.getYDiff(newPos);
+        if(xDiff == 0 || yDiff == 0) return true;
+        return false;
+    }
+}
